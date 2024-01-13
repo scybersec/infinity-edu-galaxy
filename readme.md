@@ -1,4 +1,4 @@
-# Paradox Jewels Galaxy Generator
+# Infinity-Edu Galaxy Generator
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
